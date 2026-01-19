@@ -28,6 +28,7 @@ The app evaluates password strength in real time, highlights security requiremen
 ### Strong Password Output
 ![Strong Password Output](screenshots/strong-password.png)
 
+
 ---
 
 ## Tech Stack
