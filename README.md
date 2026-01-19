@@ -23,7 +23,7 @@ The app evaluates password strength in real time, highlights security requiremen
 ## Screenshots
 
 ### Main Interface
-![PasswordChecker Main Interface](screenshots/main-ui.png)
+![Main Interface](screenshots/main-ui.png)
 
 ### Strong Password Output
 ![Strong Password Output](screenshots/strong-password.png)
